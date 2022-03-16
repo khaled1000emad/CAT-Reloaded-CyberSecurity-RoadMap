@@ -6,7 +6,7 @@
 | [CAT Reloaded](https://github.com/YasserElsnbary/CAT-Reloaded-Cyber-Security-Cirlcle-Road-Map#cat-reloaded)|[Penetration Testing Path](https://github.com/YasserElsnbary/CAT-Reloaded-Cyber-Security-Cirlcle-Road-Map#2%EF%B8%8F%E2%83%A3-penetration-testing-path)|
 | [before start you should know](https://github.com/YasserElsnbary/CAT-Reloaded-Cyber-Security-Cirlcle-Road-Map#before-start-you-should-know)| [Network Security Path (defensive)](https://github.com/YasserElsnbary/CAT-Reloaded-Cyber-Security-Cirlcle-Road-Map#3%EF%B8%8F%E2%83%A3-network-security-path-defensive)                 | 
 | [ENTRY LEVEL](https://github.com/YasserElsnbary/CAT-Reloaded-Cyber-Security-Cirlcle-Road-Map#entry-level)|    [DFIR Path (defensive)](https://drive.google.com/file/d/1oLUDuy-2YmT8cbg8yXqLBOUJx2xgm9QS/view?usp=sharing)                 |                    		 
-|[Kickoff](https://github.com/YasserElsnbary/CAT-Reloaded-Cyber-Security-Cirlcle-Road-Map#kickoff)|              						 
+|[Kickoff](https://github.com/YasserElsnbary/CAT-Reloaded-Cyber-Security-Cirlcle-Road-Map#kickoff)|    [Digital Forensics Resources](https://docs.google.com/document/d/1sDvtOnocz3zTT2VBDixJz3rSFbW8PAdGh8TDQ-q3SNc/edit?usp=sharing) 	|          						 
 |[Technical Mentors](https://github.com/YasserElsnbary/CAT-Reloaded-Cyber-Security-Cirlcle-Road-Map#technical-mentors)|                       					               
 ## [CAT Reloaded Cyber Security PATH](https://docs.google.com/document/d/1LIJWZ2EpaT6O0yvQhLKKj-bmRkROYfRsJClZuNqkThk/edit?usp=sharing "CAT Reloaded Cyber Security PATH") 
 
